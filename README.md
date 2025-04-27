@@ -1,12 +1,54 @@
 # Talha-Arda
-<h1 hizalama = "merkez" > Hi 👋, ben Arda < / h1 >
-<h3 align = "center" > Türkiye'den tutkulu bir ön uç geliştiricisi < / h3 >
 
-- 💬 Bana sor ** html, css, js, c #, python **
+<h1 align="center">Hi 👋, ben Arda</h1>
+<h3 align="center">Türkiye'den tutkulu bir Ön Uç Geliştiricisi</h3>
 
-<h3 align = "left" > Benimle bağlantı kurun: < / h3 >
-<p hizalama = "sol" >
-< / p >
+- 💬 Bana şunlarla ilgili soru sorabilirsin: **HTML, CSS, JavaScript, C#, Python**
 
-<h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
-<p hizalama = "sol" > <bir href = "https://developer.android.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt =" android "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.arduino.cc/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt =" arduino "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://azure.microsoft.com/en-in/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logo/microsoft_azure/microsoft_azure-icon.svg" alt = "azure" genişlik = "40" yükseklik = "40" / > < / a > <bir href = "https://www.blender.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://download.blender.org/branding/community/blender_community_badge_white.svg" alt =" blender "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://getbootstrap.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt =" bootstrap "genişlik =" 40 "yükseklik =" 40 "/ > < / a ><bir href = "https://www.cprogramming.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt =" c "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://codeigniter.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt =" codeigniter "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.w3schools.com/cs/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com / devicons / devicon / master / icons / csharp-original.svg "alt =" csharp "genişlik =" 40 "yükseklik =" / > < / a > <bir href = "https://www.w3schools.com/css/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt =" css3 "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.docker.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt =" docker "genişlik =" 40 "yükseklik =" 40 "/ > < / a ><bir href = "https://dotnet.microsoft.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt =" dotnet "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://git-scm.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt =" git "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.w3.org/html/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com / devicons / devicon / master / icons / html5 / html5-original-wordmark.svg "alt =" html5 "genişlik =" 40 "/ = < / a > <bir href = "https://www.java.com" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt =" java "genişliği =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt =" javascript "genişlik =" 40 "yükseklik =" 40 "/ >< / a > <bir href = "https://www.microsoft.com/en-us/sql-server" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt =" mssql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.mysql.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt =" mysql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.oracle.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/master/icons/oracle/oracle-original.svg "alt =" oracle "genişlik =" 40 "yükseklik =" / > < / a > <bir href = "https://www.photoshop.com/en" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt =" photoshop "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.php.net" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt =" php "genişlik =" 40 "yükseklik =" 40 "/ > < / a ><bir href = "https://www.python.org" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt =" python "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://scikit-learn.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt =" scikit_learn "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >com / devicons / devicon / master / icons / python / original.svg "alt =" python "genişlik =" 40 "yükseklik =" / > < / a > <bir href = "https://scikit-learn.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt =" scikit_learn "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >com / devicons / devicon / master / icons / python / original.svg "alt =" python "genişlik =" 40 "yükseklik =" / > < / a > <bir href = "https://scikit-learn.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt =" scikit_learn "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >org / wikipedia / commons / 0/05 / Scikit_learn_logo_small.svg "alt =" scikit_learn "genişlik =" 40 "/ = < / a > < / p >org / wikipedia / commons / 0/05 / Scikit_learn_logo_small.svg "alt =" scikit_learn "genişlik =" 40 "/ = < / a > < / p >
+## 🌐 Benimle Bağlantı Kurun
+<p align="left">
+<!-- Buraya iletişim linklerini (LinkedIn, mail vs.) ekleyebilirsin -->
+</p>
+
+## 🛠️ Diller ve Araçlar
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
