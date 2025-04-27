@@ -7,7 +7,21 @@
 
 ## 🌐 Benimle Bağlantı Kurun
 <p align="left">
-<!-- Buraya iletişim linklerini (LinkedIn, mail vs.) ekleyebilirsin -->
+  <a href="https://twitter.com/kullanici_adin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kullanici_adin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://www.reddit.com/user/kullanici_adin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"/>
+  </a>
+  <a href="https://stackoverflow.com/users/kullanici_id" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/>
+  </a>
+  <a href="https://discordapp.com/users/kullanici_id" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
 </p>
 
 ## 🛠️ Diller ve Araçlar
