@@ -39,7 +39,10 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
   <a href="#" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/> 
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/> 
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare"/>
   </a>
 </p>
 
